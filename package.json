@@ -1,0 +1,20 @@
+{
+  "name": "di-workshop-11-hotel-app",
+  "version": "1.0.0",
+  "description": "hotel reviewing system\u001b[D",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/normrod/di-workshop-11-hotel-app.git"
+  },
+  "author": "Tasha Ormrod",
+  "license": "ISC",
+  "homepage": "https://github.com/normrod/di-workshop-11-hotel-app#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
